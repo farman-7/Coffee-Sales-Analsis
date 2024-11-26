@@ -71,7 +71,7 @@ Here are the actionable insights generated:
 
 **👉 Insight Example**:  
 
-_"Sales peaked in December, with a 15% increase from November. Weekday sales outperformed weekends by 20%."_  
+_"Sales peaked in May, with a 37% increase from April. Weekday sales outperformed weekends by 20%."_  
 
 ---
 
@@ -87,8 +87,8 @@ _"Sales peaked in December, with a 15% increase from November. Weekday sales out
 
 **👉 Screenshot Example**:  
 
-![image alt](<calender .png>)
-![img alt](<Heat Map .png>)
+![image alt](https://github.com/farman-7/Coffee-Sales-Analsis/blob/6f52166f033bcd9e7b9df9c9bfe091116f384e69/Heat%20Map%20.png)
+![image alt](https://github.com/farman-7/Coffee-Sales-Analsis/blob/6f52166f033bcd9e7b9df9c9bfe091116f384e69/calender%20.png)
 
 ---
 
@@ -110,5 +110,5 @@ _"Sales peaked in December, with a 15% increase from November. Weekday sales out
 
 ## 📧 Contact Me  
 
-- **Email**: [farman@example.com](mailto:farman@example.com)  
+- **Email**: [Farman's Email](mailto:md.farman.data@gmail.com)  
 - **LinkedIn**: [Farman's Profile](https://www.linkedin.com/in/md-farman-analyst/)  
