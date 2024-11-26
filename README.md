@@ -4,9 +4,9 @@
 ## Overview  
 **Coffee Sales Analysis** leverages SQL and Power BI to explore sales trends, customer behavior, and product performance. This interactive project provides valuable insights into sales patterns, enabling data-driven decision-making.
 
-**👉 Screenshot**
+## 👇 Screenshot
 
-https://github.com/farman-7/Coffee-Sales-Analsis/blob/92c4ef0dfca5b98d04f272c0039c71536d718fc3/Coffee_Shop_Sales.png
+![image alt](https://github.com/farman-7/Coffee-Sales-Analsis/blob/f2fb1f37bd1629530da72d794e3e86f1c9177ff8/Coffee_Shop_Sales.png)
 
 ---
 
@@ -87,8 +87,8 @@ _"Sales peaked in December, with a 15% increase from November. Weekday sales out
 
 **👉 Screenshot Example**:  
 
-![Alt text](<calender .png>)
-![Alt text](<Heat Map .png>)
+![image alt](<calender .png>)
+![img alt](<Heat Map .png>)
 
 ---
 
